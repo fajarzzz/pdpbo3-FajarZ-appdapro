@@ -1,2 +1,2 @@
-# pdpbo3-FajarZuliansyahTrihutama-appdapro
+# pdpbo3-FajarZ-appdapro
 TP3DPBO | Tkinter Python
