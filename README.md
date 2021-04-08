@@ -6,3 +6,14 @@ To run:
 ```
 python main.py
 ```
+
+### Spesifikasi Terpenuhi Semua
+```
+1. Area Input ✔
+2. Input dan Tampilkan File Gambar (Bonus) ✔    
+3. Menyimpan Data ✔ 
+4. Tampil Data ✔         
+5. Hapus Semua Data ✔
+6. Keterangan Aplikasi ✔
+7. Keluar dari Aplikasi ✔
+```
